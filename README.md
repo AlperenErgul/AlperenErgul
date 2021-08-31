@@ -46,6 +46,7 @@
 - 🌐 : HTML | CSS | Bootstrap |Angular| Angular Material 
 - 🖇️ : NodeJS 
 - 📱 : Angular
+- 🌐 : Firebase
 
 #
 
