@@ -37,6 +37,7 @@
    - Visual Studio
    - Android Studio
    - Draw.io
+   - Git
   
  #
  <br />
@@ -47,6 +48,7 @@
 - 🖇️ : NodeJS 
 - 📱 : Angular
 - 🌐 : Firebase
+- 💽 : Git
 
 #
 
