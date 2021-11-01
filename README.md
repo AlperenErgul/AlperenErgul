@@ -36,19 +36,21 @@
    - VSCode
    - Visual Studio
    - Android Studio
+   - Pycharm
    - Draw.io
    - Git
    - Eclipse
+   - PostMan
   
  #
  <br />
  
 ### ⚡ Some Technologies I use  :
-- 🧑‍💻 : Javascript | Typescript | Java
+- 🧑‍💻 : Javascript | Typescript | Java | Python
 - 🌐 : HTML | CSS | Bootstrap |Angular| Angular Material 
-- 🖇️ : NodeJS 
+- 🖇️ : NodeJS | Express.js
 - 📱 : Angular
-- 🌐 : Firebase
+- 🌐 : Firebase | MongoDb | Mongoose
 - 💽 : Git
 
 #
