@@ -3,7 +3,7 @@
 
 # 🌱 About Me
 
-  I'm 19 years old developer and computer engineering student.
+  I'm 20 years old developer and computer engineering student.
   
   I started my programming life with Java language at 22.11.2020.
   
