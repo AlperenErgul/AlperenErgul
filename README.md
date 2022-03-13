@@ -41,6 +41,7 @@
    - Git
    - Eclipse
    - PostMan
+   - DBeaver
   
  #
  <br />
