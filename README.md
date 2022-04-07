@@ -48,10 +48,10 @@
  
 ### ⚡ Some Technologies I use  :
 - 🧑‍💻 : Javascript | Typescript | Java | Python
-- 🌐 : HTML | CSS | Bootstrap |Angular| Angular Material 
-- 🖇️ : NodeJS | Express.js
+- 🌐 : HTML | CSS | Bootstrap | Angular | Angular Material 
+- 🖇️ : NodeJS | Express.js | Nest.js
 - 📱 : Angular
-- 🌐 : Firebase | MongoDb | Mongoose
+- 🌐 : Firebase | MongoDb | Mongoose | Sequlize ORM | SQLite
 - 💽 : Git
 
 #
