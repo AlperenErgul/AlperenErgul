@@ -43,6 +43,7 @@
    - PostMan
    - DBeaver
    - Docker
+   
   
  #
  <br />
@@ -52,7 +53,7 @@
 - 🌐 : HTML | CSS | Bootstrap | Angular | Angular Material 
 - 🖇️ : NodeJS | Express.js | Nest.js
 - 📱 : Angular
-- 🌐 : Firebase | MongoDb | Mongoose | Sequlize ORM | SQLite
+- 🌐 : Firebase | MongoDb | Mongoose | Sequlize ORM | SQLite | Redis
 - 💽 : Git
 
 #
