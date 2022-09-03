@@ -57,7 +57,9 @@
 - 🖇️ : NodeJS | Express.js | Nest.js
 - 📱 : Angular
 - 🌐 : Firebase | MongoDb | Mongoose | Sequlize ORM | SQLite | Redis
-- 💽 : Git
+- 💽 : Git | Github 
+- 🌐 : i18n
+
 
 #
 
