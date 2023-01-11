@@ -53,7 +53,7 @@
  
 ### ⚡ Some Technologies I use  :
 - 🧑‍💻 : Javascript | Typescript | Java | Python
-- 🌐 : HTML | CSS | Bootstrap | Angular | Angular Material 
+- 🌐 : HTML | CSS | Bootstrap | Angular | Angular Material | TailwindCSS
 - 🖇️ : NodeJS | Express.js | Nest.js
 - 📱 : Angular
 - 🌐 : Firebase | MongoDb | Mongoose | Sequlize ORM | SQLite | Redis
