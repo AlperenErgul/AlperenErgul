@@ -58,7 +58,7 @@
 - 📱 : Angular
 - 🌐 : Firebase | MongoDb | Mongoose | Sequlize ORM | SQLite | Redis
 - 💽 : Git | Github 
-- 🌐 : i18n | NGRX
+- 🌐 : i18n | NGRX | Transloco
 
 
 #
