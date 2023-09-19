@@ -56,7 +56,7 @@
 - 🌐 : HTML | CSS | Bootstrap | Angular | Angular Material | TailwindCSS
 - 🖇️ : NodeJS | Express.js | Nest.js
 - 📱 : Angular
-- 🌐 : Firebase | MongoDb | Mongoose | Sequlize ORM | SQLite | Redis
+- 🌐 : Firebase | MongoDb | Mongoose | Sequlize ORM | SQLite
 - 💽 : Git | Github 
 - 🌐 : i18n | NGRX | Transloco
 
