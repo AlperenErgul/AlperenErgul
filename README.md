@@ -27,9 +27,6 @@
   #
   <br />
  
- ### My currently running websites:
- 
- - https://duty-pharmacy-app.vercel.app/
    
    
   
